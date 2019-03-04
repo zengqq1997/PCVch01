@@ -45,7 +45,7 @@ show()
 
 ### 2.实验结果图
 
-![image](https://github.com/zengqq1997/PCVch01/blob/master/images/%E7%9B%B4%E6%96%B9%E5%9B%BE%E5%9B%BE%E5%83%8F.jpg)
+![image](https://github.com/zengqq1997/PCVch01/blob/master/images/%E7%81%B0%E5%BA%A6%E5%9B%BE.jpg)
 
 ## 二、图像轮廓和直方图
 
