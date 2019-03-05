@@ -12,7 +12,7 @@
 
 ### 1.准备
 
-你需要的主要四个文件包括[python(x,y)2.7.6版本](ftp://ftp.ntua.gr/pub/devel/pythonxy/)安装包、[PCV库](https://github.com/willard-yuan/pcv-book-code)、[VLfeat](http://www.vlfeat.org/download.html)和本书用到的数据库。
+你需要的主要四个文件包括[python(x,y)2.7.6版本](http://www.softpedia.com/get/Programming/Other-Programming-Files/Python-x-y.shtml)安装包、[PCV库](https://github.com/willard-yuan/pcv-book-code)、[VLfeat](http://www.vlfeat.org/download.html)和本书用到的数据库。
 
 ### 2.安装python(x,y)
 
